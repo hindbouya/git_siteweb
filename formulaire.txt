@@ -3,6 +3,15 @@
 <body>
 
 <h1>Inscription<7h1>
+<form  action="" method="post">
+<label> Nom:</label>
+<input type="text" name="nom"><br>
+
+
+
+
+
+</form>
 
 
 
