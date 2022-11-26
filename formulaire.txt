@@ -8,6 +8,24 @@
 <input type="text" name="nom"><br>
 
 
+<label> Prenom:</label>
+<input type="text" name="prenom"><br>
+
+<label> Age:</label>
+<select>
+<option>18 ans</option>
+<option>19 ans</option>
+<option>20ans</option>
+<option>21 ans</option>
+<option22 ans</option>
+<option23 ans</option>
+</select><br>
+
+<label> Ville :</label>
+<input type="text" name="ville"><br>
+
+<button>Inscrire</button>
+<button>Supprimer</button>
 
 
 
